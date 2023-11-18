@@ -17,3 +17,5 @@ git branch
 git checkout -b "branch name"
 
 modified from local machine ......>
+
+Adding js file from jsAdd branch
